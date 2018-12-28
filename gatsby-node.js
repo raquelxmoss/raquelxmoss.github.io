@@ -1,7 +1,7 @@
 const path = require('path');
 const componentWithMDXScope = require('gatsby-mdx/component-with-mdx-scope');
 
-const PAGINATION_OFFSET = 2;
+const PAGINATION_OFFSET = 10;
 
 const pluckCategories = edges =>
   Object.keys(

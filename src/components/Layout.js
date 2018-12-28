@@ -69,6 +69,7 @@ export default ({ site, frontmatter = {}, children }) => {
       </Helmet>
 
       <MDXProvider components={mdxComponents}>
+        <h1>{title}</h1>
         <Fragment>
           <ul>
             {NAVIGATION.map(navigation => (

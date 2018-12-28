@@ -4,7 +4,7 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 
 export default function Index({ data: { site } }) {
-  return <Layout site={site}>Landing Page</Layout>;
+  return <Layout site={site}>In here will go a list of posts</Layout>;
 }
 
 export const pageQuery = graphql`

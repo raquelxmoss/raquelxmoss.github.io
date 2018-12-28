@@ -1,15 +1,17 @@
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    siteUrl: 'https://www.robinwieruch.de/',
-    author: 'Robin Wieruch',
-    title: 'Gatsby MDX Starter Project',
-    description: 'My Gatsby MDX Starter Project',
+    siteUrl: 'https://www.raquelmoss.com',
+    author: 'Raquel Moss',
+    title: 'Raquel Moss',
+    description: 'Code, feminism, and lukewarm takes at best',
     keywords: [
       'Software Engineer',
       'Web Developer',
       'Consultant',
       'Freelancer',
+      'Learn to code',
+      'Code review'
     ],
   },
   plugins: [
@@ -48,6 +50,13 @@ module.exports = {
     'gatsby-plugin-styled-components',
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-emotion',
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
