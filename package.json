@@ -55,6 +55,7 @@
   },
   "devDependencies": {
     "babel-preset-gatsby": "^0.1.6",
+    "gh-pages": "^2.0.1",
     "prettier": "1.14.3"
   },
   "keywords": [
@@ -66,6 +67,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "serve public/",
-    "now-build": "npm run build"
+    "now-build": "npm run build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }
