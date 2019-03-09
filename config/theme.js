@@ -1,10 +1,6 @@
-import { darken, lighten } from 'polished'
+import { lighten } from 'polished'
 import { fonts } from '../src/lib/typography'
-// #C9A2D2 parentbg
-//#404E88 text,etc
-//#EBF4FA secondary bg
-//#0C2231 border
-//
+
 const brand = {
   primary: '#EBF4FA',
   secondary: '#EBF4FA',

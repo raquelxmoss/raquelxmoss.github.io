@@ -61,8 +61,8 @@ export default ({ data: { site, allMdx } }) => {
 
         <p>I’m active in my community! I’ve served on the <a href="https://ruby.nz">Ruby New Zealand</a> committee as both a general member and as President. In 2016 I co-organised the first <a href="https://kiwi.ruby.nz/">KiwiRuby</a>, a Ruby conference in Wellington, New Zealand.</p>
 
-        <blockquote>Raquel is smart, kind, reliable, honest, and hard working. Kiwi Ruby wouldn’t have happened without her steadfast, no-nonsense approach.</blockquote>
-        <cite>– Merrin MacLeod, Kiwi Ruby Organiser</cite>
+        <blockquote>Raquel is smart, kind, reliable, honest, and hard working. KiwiRuby wouldn’t have happened without her steadfast, no-nonsense approach.</blockquote>
+        <cite>– Merrin MacLeod, KiwiRuby Organiser</cite>
         <blockquote>It was a pleasure to work with Raquel when she was president of Ruby NZ. She had a clear vision for the community and the organisational skills to execute it.</blockquote>
         <cite>- Daniel Fone, Secretary of Ruby New Zealand</cite>
 

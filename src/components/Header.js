@@ -1,9 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core'
-import theme from '../../config/theme'
-
-import Container from './Container'
+import { graphql } from 'gatsby'
 
 const Header = ({
   dark,

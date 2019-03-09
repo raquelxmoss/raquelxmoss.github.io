@@ -13,9 +13,6 @@ const Share = ({ url, title, twitterHandle }) => (
       div {
         margin-right: 20px;
         cursor: pointer;
-        :hover {
-          color: ${theme.brand.primary};
-        }
       }
       span {
         margin-right: 20px;

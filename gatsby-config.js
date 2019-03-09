@@ -1,4 +1,5 @@
 const config = require('./config/website')
+const path = require(`path`)
 const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix
 
 require('dotenv').config({
@@ -39,6 +40,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: 'blog',
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: path.join(__dirname, `content`, `blog`),
       },
     },
     {

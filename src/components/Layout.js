@@ -123,7 +123,6 @@ export default ({
   headerBg,
   headerColor,
   noFooter,
-  noSubscribeForm,
   background = '#EBF4FA'
 }) => {
   const {
@@ -182,7 +181,6 @@ export default ({
             {!noFooter && (
               <Footer
                 author={site.siteMetadata.author.name}
-                noSubscribeForm={noSubscribeForm}
               />
             )}
           </div>
