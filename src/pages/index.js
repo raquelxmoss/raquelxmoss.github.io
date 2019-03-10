@@ -6,7 +6,6 @@ import Layout from '../components/Layout'
 import Link from '../components/Link'
 import Container from 'components/Container'
 import { rhythm } from '../lib/typography'
-import theme from '../../config/theme'
 
 const PostTitle = styled.h2`
   margin-bottom: ${rhythm(0.3)};
