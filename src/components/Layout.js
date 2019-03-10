@@ -173,6 +173,9 @@ export default ({
               margin: 3em;
               margin-top: 2em;
               min-height: 100vh;
+              ${bpMaxSM} {
+                margin: 1em;
+              }
             `
           }>
           <MDXProvider components={mdxComponents}>

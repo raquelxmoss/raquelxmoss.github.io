@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core'
 import { graphql } from 'gatsby'
+import { bpMaxSM } from '../lib/breakpoints'
 
 const Header = ({
   dark,
@@ -14,6 +15,9 @@ const Header = ({
       background: none;
       padding: 30px 0 0 0;
       background: ${dark ? '#090909' : `${bgColor}` || 'none'};
+      ${bpMaxSM} {
+        font-size: 0.7em
+      }
     `}
   >
       <nav

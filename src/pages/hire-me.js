@@ -4,12 +4,13 @@ import Layout from '../components/Layout'
 import Container from '../components/Container'
 import theme from '../../config/theme'
 import { css } from '@emotion/core'
+import { bpMaxSM } from '../lib/breakpoints'
 
 export default ({ data: { site, allMdx } }) => {
   return (
     <Layout site={site}>
       <Container>
-        <h1 css={css(`font-size: 70px`)}>Hi! I’m Raquel</h1>
+        <h1 css={css(`font-size: 70px; ${bpMaxSM} { font-size: 2em;}`)}>Hi! I’m Raquel</h1>
         <hr css={css(`border-width: 7px; border-color: ${theme.colors.body_color}`)}/>
         <h2>I’m an experienced full-stack web developer open to permanent remote positions and contracts.</h2>
         <p>
