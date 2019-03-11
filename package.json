@@ -66,7 +66,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "npm run build && node ./scripts/deploy",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "start": "serve public/",
     "now-build": "npm run build"
   }
