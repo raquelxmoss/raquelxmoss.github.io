@@ -14,7 +14,6 @@ module.exports = {
   userTwitter: '@raquelxmoss', // Twitter Username
   ogSiteName: 'Raquel Moss', // Facebook Site Name
   ogLanguage: 'en_US',
-  googleAnalyticsID: '',
 
   // Manifest and Progress color
   themeColor: '#5348FF',
@@ -23,6 +22,5 @@ module.exports = {
   // Social component
   twitter: 'https://twitter.com/raquelxmoss/',
   twitterHandle: '@raquelxmoss',
-  github: 'https://github.com/raquelxmoss/',
-  linkedin: '',
+  github: 'https://github.com/raquelxmoss/'
 }

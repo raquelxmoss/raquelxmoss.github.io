@@ -34,6 +34,9 @@ export default ({ data: { site, allMdx } }) => {
         <blockquote>She was a standout team member from day one. She is an incredibly efficient problem solver and diligent worker who never hesitates to go the extra mile to deliver quality results. She is equally skilled at pairing with team members on a difficult problem, or clearly explaining complex concepts to non-technical clients. She has a delightful sense of humour and understands the real-world implications of technical decisions, making her a brilliant asset to any team. I cannot recommend her strongly enough!</blockquote>
         <cite>- Jess Ducey, Solutions Delivery Manager</cite>
 
+        <blockquote>Raquel is the type of developer I want to be. She is a critical thinker and is able to design and execute a solution to the problems she's facing. She understands code design and the trade offs that come with different solutions."</blockquote>
+        <cite>- Ian Jones, Developer</cite>
+
         <hr css={css(`border-width: 7px; border-color: ${theme.colors.body_color}`)}/>
         <h2 name="looking-for">What am I looking for in a workplace?</h2>
 
@@ -60,7 +63,7 @@ export default ({ data: { site, allMdx } }) => {
         <hr css={css(`border-width: 7px; border-color: ${theme.colors.body_color}`)}/>
         <h2 name="community-contrib">My community contributions</h2>
 
-        <p>I’m active in my community! I’ve served on the <a href="https://ruby.nz">Ruby New Zealand</a> committee as both a general member and as President. In 2016 I co-organised the first <a href="https://kiwi.ruby.nz/">KiwiRuby</a>, a Ruby conference in Wellington, New Zealand.</p>
+        <p>I’m active in my community! I’ve served on the <a href="https://ruby.nz">Ruby New Zealand</a> committee as both a general member and as President. In 2017 I co-organised the first <a href="https://kiwi.ruby.nz/">KiwiRuby</a>, a Ruby conference in Wellington, New Zealand.</p>
 
         <blockquote>Raquel is smart, kind, reliable, honest, and hard working. KiwiRuby wouldn’t have happened without her steadfast, no-nonsense approach.</blockquote>
         <cite>– Merrin MacLeod, KiwiRuby Organiser</cite>

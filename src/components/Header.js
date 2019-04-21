@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { css } from '@emotion/core'
-import { graphql } from 'gatsby'
 import { bpMaxSM } from '../lib/breakpoints'
 
 const Header = ({
@@ -61,13 +60,3 @@ const Header = ({
 )
 
 export default Header
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

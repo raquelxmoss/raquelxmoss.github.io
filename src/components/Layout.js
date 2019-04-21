@@ -12,6 +12,7 @@ import reset from '../lib/reset'
 import { fonts } from '../lib/typography'
 import config from '../../config/website'
 import Footer from '../components/Footer'
+import logo from '../../assets/logo.jpeg';
 
 export const globalStyles = css`
   body {
@@ -155,6 +156,9 @@ export default ({
             meta={[
               { name: 'description', content: description },
               { name: 'keywords', content: keywords },
+            ]}
+            link={[
+              { rel: 'shortcut icon', type: 'image/jpeg', href: `${logo}` }
             ]}
           >
             <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900,900i" rel="stylesheet" />
