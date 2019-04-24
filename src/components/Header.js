@@ -45,13 +45,9 @@ const Header = ({
         <Link to="/blog" aria-label="Blog" activeClassName="active">
           Blog
         </Link>
-        <Link to="/hire-me" aria-label="Hire Raquel" activeClassName="active">
-          Hire Raquel
+        <Link to="/about" aria-label="About Raquel" activeClassName="active">
+          About Raquel
         </Link>
-        <a href="https://www.dropbox.com/s/j936phjp5do12jx/raquel_moss_cv.pdf?dl=0" aria-label="Raquel's CV">
-          CV
-        </a>
-
         <a href="mailto:raquelxmoss@gmail.com?subject=via website" aria-label="Email Raquel">
           Contact
         </a>
