@@ -48,6 +48,9 @@ const Header = ({
         <Link to="/about" aria-label="About Raquel" activeClassName="active">
           About Raquel
         </Link>
+        <Link to="/critical-thinking-podcast" aria-label="Critical Thinking Podcast" activeClassName="active">
+          Critical Thinking Podcast
+        </Link>
         <a href="mailto:raquelxmoss@gmail.com?subject=via website" aria-label="Email Raquel">
           Contact
         </a>
