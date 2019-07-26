@@ -1,0 +1,145 @@
+<p>I recently read an article by Max Bittker called <a href="https://maxbittker.com/code-review/">"How to Review Code
+You Don't
+Understand"</a>, and it got me to thinking about times when I've been
+tasked with doing just that.</p>
+
+<p>One of the troubles I have with code review is understanding the context
+around a change. Given a diff, I can work through it line-by-line and
+understand most of what's going on there, probably. At least, I can
+understand the <em>mechanics</em> of it. But is that the same as understanding
+what the code is trying to achieve? In my opinion, no.</p>
+
+<p>Since becoming a developer, one of the struggles I've had with reading
+code is that whatever I'm looking at, I'm seeing the <em>solution</em>, not the
+problem. And in fact, I'm only seeing one particular solution, the one
+I'm tasked with reviewing.</p>
+
+<p>When reviewing code, I want to give thoughtful suggestions, learn
+something new, and pick up bugs that I am able to see. (In Ruby, 90% of
+the time I'm asking "Hey, do you want to do a nil check
+here?").</p>
+
+<p>So, how can I do that when I am only seeing the output of (usually) one
+developer's understanding, problem-solving process, and personal style?
+It's hard — arguably one of the harder parts of my job. Lacking
+copious code comments, or some sort narration available to me while I
+read the code (imagine that — like director's commentary for code),
+all of that important context gets lost.</p>
+
+<p>Assuming that we're not going to overhaul our team's processes entirely,
+or build better code-reviewing tools from the ground up, what are some
+things we could go ahead and do tomorrow at work to improve our code
+review experience?</p>
+
+<h3 id="ask-the-submitter-to-review-thecode">Ask the submitter to review the code</h3>
+
+<p>If your colleague hasn't already self-reviewed their diff and left
+in-line comments, ask them to do so. This will provide some valuable
+insight — why they made a particular choice, what they struggled with,
+why something might seem overly complex. They might point out particular
+areas they'd like reviewers to focus on, or point to areas where they
+might be unsure about their decision-making. This will go a small part
+of the way towards capturing the developer's thought process as they
+wrote the code.</p>
+
+<h3 id="seek-to-understand-what-the-developer-was-trying-toachieve">Seek to understand what the developer was trying to achieve</h3>
+
+<p>If your workplace is like mine, you might start a code review with a
+pull request, a user story, some mock-ups, and a general idea of the
+larger context surrounding the piece of work.</p>
+
+<p>We don't live in a perfect world, though. Perhaps the user story will be
+vague (I'm yet to find a team that writes impeccable stories). Maybe
+there's no mock-ups, and maybe you're not too familiar around the
+context.</p>
+
+<p>So before proceeding, seek to understand.</p>
+
+<p>The gotcha here getting to the point where you have the right amount of
+understanding. Sometimes, a story or PR's description might be too
+broad.</p>
+
+<p>For example, you might know that the overarching goal is <strong>Display a
+user's address on their invoice PDF</strong>. Great, that's what this code is
+going to do, right?</p>
+
+<p>What you might not know, is that a user's address is owned by another
+service, and the app that you're looking at has to request that
+information. So, the developer has had to think about distributed
+transactions, data integrity, and gracefully handling HTTP request
+failures. Perhaps they've thought about where this code should sit, and
+chosen one option of several.</p>
+
+<p>You need to ask some questions to get enough context.</p>
+
+<p><strong>What sort of approach did you take?</strong> is a good question to ask your
+colleague. <strong>Did you explore any other approaches and decide against
+them?</strong> is another good one.</p>
+
+<p>Follow-on questions might explore the trade-offs that they made. If
+you're newer to being a developer, that might sound intimidating, but it
+doesn't have to be. <strong>Why?</strong> is good follow-up question. It might even
+be a good idea to do a <a href="https://en.wikipedia.org/wiki/5_Whys">5
+Whys</a> exercise.</p>
+
+<p>Whatever you do, get into the habit of asking questions before reviewing
+the pull request.</p>
+
+<h3 id="go-through-the-code-on-yourown">Go through the code on your own*</h3>
+
+<p>Armed with the submitter's self-review, and your understanding of the
+approach they took, read through the code, and leave in-line comments.
+They could be questions, or notes to yourself, or feedback for the
+submitter.</p>
+
+<p>I particularly like Github's feature where you're able to 'stage' all of
+your review notes and then submit them all at once. This leaves me free
+to write notes to myself, delete any questions that are answered further
+down the diff (<a href="https://coppermind.net/wiki/RAFO">RAFO</a>!), and edit my notes without flooding the submitter
+with emails.</p>
+
+<h3 id="go-through-the-code-with-them-ifpossible">Go through the code with them, if possible</h3>
+
+<p>In person, ideally. Get answers to your questions and discuss any
+changes to the work.</p>
+
+<p>This is also an opportunity to talk about alternate approaches, which
+actually leads me back to my previous [conundrum] with code reviews.</p>
+
+<p>When you're reading code that's been submitted for review, you're seeing
+one solution to the problem at hand. <strong>One</strong> solution. When you're
+looking at the solution, it's hard to consider other possible solutions.</p>
+
+<p>I've found that it's easier with more experience, but for newer
+developers, or for developers reviewing code that's very different from
+their usual wheelhouse, it can be very tricky to think outside what has
+already been presented to you. It's like the <a href="https://en.wikipedia.org/wiki/Einstellung_effect">Einstellung
+Effect</a>.</p>
+
+<p>If you're reviewing a pull request, and you're finding it hard to
+consider other approaches, talk to the submitter. Ask them: <strong>Did you
+consider other ways to do this? What were they?</strong></p>
+
+<p>If it turns out they hadn't considered any other ways to approach the
+problem, and you haven't thought of any either, that's okay. It's good
+to get into the habit of asking those questions anyway.</p>
+
+<h3 id="follow-up-on-any-discussed-changes-then-give-it-thetick">Follow up on any discussed changes, then give it the tick!</h3>
+
+<p>Hopefully by taking this approach, you've both learned something.
+Perhaps you've gained more understanding of your domain, and the
+code-base. You and the submitter might have talked about different
+approaches to solving the problem, or at least spent two minutes trying
+to think of a different approach. Ka pai 😄.</p>
+
+<p>This isn't the approach that I would take with every pull request. Some,
+blessedly, are more straightforward than others! But if you find
+yourself tasked with reviewing something that's quite chunky, consider
+taking some of these ideas and giving them a try.</p>
+
+<p><em>*If it's a large changeset, ask the submitter if they can break it
+down for you any more — not necessarily into separate PRs (though that
+might be desirable if it's doable), but perhaps they could take you
+through a slice of the work, in whatever way makes sense. What we really
+need is a better tool for reasoning about code diffs, but that's a blog
+post for another day.</em></p>
