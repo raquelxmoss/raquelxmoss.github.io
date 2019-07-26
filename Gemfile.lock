@@ -70,6 +70,7 @@ GEM
       servolux
       tilt (~> 2.0.9)
       uglifier (~> 3.0)
+    middleman-gh_pages (0.9.0)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     nokogiri (1.10.3)
@@ -108,6 +109,7 @@ DEPENDENCIES
   builder (~> 3.0)
   middleman (~> 4.1)
   middleman-blog
+  middleman-gh_pages
   nokogiri
   redcarpet (~> 3.3, >= 3.3.3)
   tzinfo-data
