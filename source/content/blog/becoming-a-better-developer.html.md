@@ -1,6 +1,6 @@
 ---
 slug: "/becoming-a-better-developer"
-date: "2016-02-18T14:40:25+00:00"
+date: 2016-02-18
 title: "Becoming a better developer, day by day"
 description: ""
 categories: ["learning", "programming"]
