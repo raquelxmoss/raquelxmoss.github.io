@@ -47,6 +47,7 @@ end
 
 activate :gh_pages do |gh_pages|
   gh_pages.remote = "git@github.com:raquelxmoss/raquelxmoss.github.io.git"
+  gh_pages.branch = "master"
 end
 
 page "/feed.xml", layout: false
