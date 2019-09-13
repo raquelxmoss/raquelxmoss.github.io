@@ -1,0 +1,55 @@
+---
+slug: "/automating-self-control"
+date: 2019-09-13
+title: "Self-Control is easier if you don't have to think about it"
+description: "How to automate Self-Control on MacOS with cron"
+categories: ["self-control", "automation"]
+keywords: ["self-control", "automation", "bash"]
+---
+TL;DR, [here's](https://github.com/raquelxmoss/dotfiles/blob/master/.selfcontrol.sh) the script you're looking for to automate SelfControl on macOS. 
+
+For the past few years I've been using the excellent open-source app SelfControl to help with keeping me on task and maybe salvaging a skerrick of my attention span (it's a work-in-progress).
+
+SelfControl blocks distracting websites at a fairly low level on your machine. You can't just swap to a different browser, or edit a configuration block to get to twitter, you've just got to sit there and wait. Amongst other things, SelfControl edits your /etc/hosts file, and does a few other things to prevent you from outsmarting it.
+
+The thing is, in order for SelfControl to work, you do actually have to turn it on. And this is so often where I stumbled--it's both very easy and very tempting to not turn the app on. Around December last year I decided to take that decision (or lack thereof) away from myself by setting an automatic schedule for Self-Control to obey, say, 8am to 4pm on weekdays. I used an open-source Python tool to achieve this, but it broke at some point in the last few months, after an OS update.
+
+I had a look at the Python library's GitHub repo to see if I could fix the issue, but I got lost in the weeds. Instead I decided to automate it with cron.*
+
+The script and some brief instructions are [here](https://github.com/raquelxmoss/dotfiles/blob/master/.selfcontrol.sh).
+
+The SelfControl repo provides [some instructions](https://github.com/SelfControlApp/selfcontrol/wiki/Running-SelfControl-from-the-Terminal) on how to run the app from the command line:
+
+<iframe
+  src="https://carbon.now.sh/embed?bg=rgba(255%2C255%2C255%2C1)&t=dracula&wt=none&l=application%2Fx-sh&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=64px&ln=true&fl=1&fm=Hack&fs=18px&lh=140%25&si=false&es=4x&wm=false&code=defaults%2520write%2520org.eyebeam.SelfControl%2520BlockDuration%2520-int%2520120%250Adefaults%2520write%2520org.eyebeam.SelfControl%2520HostBlacklist%2520-array%2520facebook.com%2520news.ycombinator.com%250Adefaults%2520read%2520org.eyebeam.SelfControl%250Asudo%2520%252FApplications%252FSelfControl.app%252FContents%252FMacOS%252Forg.eyebeam.SelfControl%2520%2524(id%2520-u%2520%2524(whoami))%2520--install"
+  style="transform:scale(0.7); width:100%; height:350px; border:0; overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+The first line sets up the length of the block in minutes (in the example, 2 hours). The second line sets up the sites that will be blocked, so you’ll want to tweak that to your own particular vices.
+
+On line four you run the app as root.
+
+You can save those lines as a bash script (don’t forget to make it executable), and store it in `/usr/local/bin`.*
+
+The trick to getting this to run on a cron schedule is that you need to do so as root.
+
+To achieve that, crack open `sudo crontab -e`, put in your password, and then add something along these lines:
+
+<iframe
+  src="https://carbon.now.sh/embed?bg=rgba(255%2C255%2C255%2C1)&t=dracula&wt=none&l=application%2Fx-sh&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=64px&ln=false&fl=1&fm=Hack&fs=18px&lh=140%25&si=false&es=4x&wm=false&code=0%25208%2520*%2520*%2520*%2520%252Fusr%252Flocal%252Fbin%252F.selfcontrol.sh"
+  style="transform:scale(0.7); width:100%; height:170px; border:0; overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+That’s going to run at 8am every day, which suits me. If you alter the schedule, use [crontab.guru](https://crontab.guru/) to make sure you’ve got the expression right.
+
+That’s it!
+
+You can probably do something clever to set different schedules for different days, or weekends vs weekdays, and I’ll probably experiment with that over the weekend. In any case, I hope this helps and let me know on [twitter](https://twitter.com/raquelxmoss) if you run into any problems.
+
+
+
+\* I know cron is deprecated on MacOS but it works for now and I’m too old/cranky/lazy to learn to do it the new way until I’m forced to when this breaks.
+
+\* Shout out to my co-worker Adam for helping me figure out where to store it

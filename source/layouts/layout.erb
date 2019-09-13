@@ -5,12 +5,17 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "Raquel Moss" %></title>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
   </head>
-  <body>
+  <body class="m-0 p-0">
+    <header class="bg-black py-5 mb-8 text-gray-200">
+      <h1 class="text-6xl">Raquel Moss</h1>
+      <h2 class="text-xl">Yes, my site is meant to look like this, for the moment. It's a long and pretty boring story.</h2>
+    </header>
     <%= yield %>
   </body>
 </html>
