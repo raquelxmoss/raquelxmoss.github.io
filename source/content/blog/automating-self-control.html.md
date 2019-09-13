@@ -28,9 +28,15 @@ The SelfControl repo provides [some instructions](https://github.com/SelfControl
 
 The first line sets up the length of the block in minutes (in the example, 2 hours). The second line sets up the sites that will be blocked, so you’ll want to tweak that to your own particular vices.
 
+
+
 On line four you run the app as root.
 
+
+
 You can save those lines as a bash script (don’t forget to make it executable), and store it in `/usr/local/bin`.*
+
+
 
 The trick to getting this to run on a cron schedule is that you need to do so as root.
 
