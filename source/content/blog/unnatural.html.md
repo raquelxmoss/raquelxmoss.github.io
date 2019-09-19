@@ -1,11 +1,9 @@
 ---
 slug: "/unnatural"
-date: "2015-09-01T20:17:42+00:00"
+date: 2015-09-01
 title: "Unnatural"
 description: "Programming doesn't come naturally to me"
 categories: ["programming", "learning"]
-keywords: ["code"]
-banner: "./images/unnatural.jpg"
 ---
 
 For most of my life I’ve avoided doing things that don’t come naturally to me.
