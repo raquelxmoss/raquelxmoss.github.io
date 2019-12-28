@@ -1,6 +1,9 @@
 <% wrap_layout :layout do %>
-  <article>
-    <h1><%= current_page.data.title %></h1>
-    <%= yield %>
-  </article>
+  <div class="article-container">
+    <article class="article">
+      <h2><%= current_page.data.title %></h2>
+      <%= yield %>
+    </article>
+    <div class="underlay"></div>
+  </div>
 <% end %>

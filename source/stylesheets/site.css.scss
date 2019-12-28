@@ -11,6 +11,11 @@ $orange: #E25327;
   mix-blend-mode: color-dodge;
 }
 
+.article {
+  z-index: 1;
+  padding: 3em;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -22,7 +27,7 @@ body {
 
 main {
   margin: 0 auto;
-  width: 60%;
+  width: 55%;
 }
 
 h1, h2, h3 {
@@ -85,11 +90,21 @@ p {
   align-items: center;
 }
 
+.article-container {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .underlay {
+    align-self: baseline;
+  }
+}
+
 .article-preview {
   z-index: 1;
   display: flex;
   flex-direction: column;
-  width: 80%;
   margin-bottom: 8em;
   line-height: 1;
 
