@@ -5,21 +5,25 @@ per_page: 50
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
 
-  <% if prev_page %>
+<% if prev_page %>
     <p><%= link_to 'Previous page', prev_page %></p>
   <% end %>
 <% end %>
-<main class="w-3/5 my-5 mx-auto">
+<div class="article-list">
   <% page_articles.each_with_index do |article, i| %>
-    <section class="my-8">
-      <h2 class="text-2xl"><%= link_to article.title, article %></h2>
-      <p><%= article.date.strftime('%e %B %Y') %></p>
+    <section class="article-preview">
+      <h2><%= link_to article.title, article %></h2>
+      <div class="article-summary"><%= article.summary %></div>
+      <p class="article-metadata">
+        <span class="article-date"><%= article.date.strftime('%e %B %Y') %></span>
+        <span class="read-more"><%= link_to "Read article", article %></span>
+      </p>
     </section>
   <% end %>
+</div>
 
-  <% if paginate %>
-    <% if next_page %>
-      <p><%= link_to 'Next page', next_page %></p>
-    <% end %>
+<% if paginate %>
+  <% if next_page %>
+    <p><%= link_to 'Next page', next_page %></p>
   <% end %>
-</main>
+<% end %>

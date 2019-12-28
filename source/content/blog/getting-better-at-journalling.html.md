@@ -8,15 +8,13 @@ keywords: ["journalling", "writing"]
 banner: ""
 ---
 
-# How I got better at journalling
-
 Over the last 18 months or so, I’ve been journalling regularly and it’s made a huge difference to my mental health. My therapist is thrilled but unsurprised (lol).
 
 I’ve always found a lot of value in processing thoughts and feelings by writing them down, but in the past I only really turned to that when my situation was _really_ dire. That resulted in very fragmented journalling, and because I lacked the habit, journalling wasn’t the tool I’d think to reach for first, even when it really would have helped me!
 
 These days it’s my port-of-call and I journal almost every day. Here’s how I did it:
 
-### I thought really hard about why I avoided journalling, even when I knew it was good for me.
+## I thought really hard about why I avoided journalling, even when I knew it was good for me.
 
 This involved a lot of thinking (obviously) and a lot of alone time. I’d think about this in the shower, while making coffee, etc. Here’s a few things that came up:
 
@@ -26,29 +24,29 @@ This involved a lot of thinking (obviously) and a lot of alone time. I’d think
 
 
 
-### I used tools I learned in therapy to challenge each of those obstacles.
+## I used tools I learned in therapy to challenge each of those obstacles.
 
 My therapist and I worked a lot on CBT to change unhelpful thought patterns. The process we used was first to notice, then to challenge, and then to reframe. I had already done step one, noticing, which resulted in the bullet points above. My next step was to take each thought and challenge it. I usually do that by saying to myself “That’s interesting, why do you think that?” (usually in my therapist’s voice in my head, hah)
 
 So:
 
-#### Why do you think that journals should be a fluent account of what happens in your life?
+### Why do you think that journals should be a fluent account of what happens in your life?
 
 I guess because that’s what’s commonly understood to be a journal? That’s how they’re portrayed in the media. If anyone else were to read my journal, it wouldn’t make much sense, because they wouldn’t have the context of what’s been going on! So, it feels like I have to write down the catch ups.
 
-#### Why do you worry about your writing being bad, embarrassing, or stupid?
+### Why do you worry about your writing being bad, embarrassing, or stupid?
 
 I don’t like being seen as stupid or weak. I don’t want anyone to think that about me and I don’t want to think those things about myself. So I need to hide all evidence of my stupidity and weakness, not take notes on it! 
 
-#### Why are you worried about your thoughts and feelings becoming _real_? What would happen if they were _real_?
+### Why are you worried about your thoughts and feelings becoming _real_? What would happen if they were _real_?
 
 Oof. If they’re real I have to deal with them. I guess I’m afraid that I can’t deal with them. I’m also pretty sure that some of my feelings (jealousy, heartbreak) make me stupid. See above point about fear of being stupid.
 
 
 
-### I then tried to reframe those thoughts and eliminate the obstacles
+## I then tried to reframe those thoughts and eliminate the obstacles
 
-#### Journals don’t have to be a fluent account
+### Journals don’t have to be a fluent account
 
 It’s your space to write whatever the fuck you want, however the fuck you want to. You don’t have to share these with anyone, no one else need read them. You can burn them after you write them if you want to. You don’t have to give anyone context. Keep your purpose in mind—you want to journal so that you can work through your feelings. So do that. Don’t feel bound by popular media’s expectations of what a journal is.
 
@@ -56,7 +54,7 @@ The rule I made was **No Catchups, just dive right in**. This eliminates my guil
 
 
 
-#### It’s okay if your writing is bad, embarrassing, or stupid
+### It’s okay if your writing is bad, embarrassing, or stupid
 
 There’s a lot more to unpack here, but basically, it’s okay if my writing is any of the above. My writing probably isn’t worse, more embarassing, or stupider than the next person’s, but even if it is, that’s okay. No one’s reading this, no one’s keeping score.
 
@@ -64,7 +62,7 @@ The rule I made was **Be as dumb as you like, and don’t judge your thoughts**.
 
 
 
-#### Your feelings are already real
+### Your feelings are already real
 
 A few years ago, a friend pointed me towards [The Litany of Gendlin](<https://wiki.lesswrong.com/wiki/Litany_of_Gendlin>), which has stuck with me. In short:
 
@@ -77,7 +75,7 @@ The rule I made was **Remember the Litany of Gendlin**. If I found myself hesita
 
 
 
-### Habit
+## Habit
 
 With my rules set, I next worked on establishing a habit. I re-read [The Artist’s Way](<https://www.goodreads.com/book/show/615570.The_Artist_s_Way>), which is a book that has many, many faults, but a few gems of wisdom. On of the key tennets is that you don’t have to be in a particular mood in order to be creative. Creativity is a habit. The author suggests that everyone write three pages a day, every day, longhand with pen and paper. So that’s what I do. 
 

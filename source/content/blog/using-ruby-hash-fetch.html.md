@@ -8,8 +8,6 @@ keywords: ["code"]
 banner: ""
 ---
 
-# Using `Hash#fetch` in Ruby for better nil handling
-
 Pulling values out of a Hash in Ruby is simple with the `[]` method, but problems can occur when the value you’re looking up isn’t there. This can result in cumbersome nil checks, or our absolute favourite error  `Undefined method for nil:NilClass`. 
 
 Let’s look at an example of a classifieds site that sorts its listings when displaying them for the user, and some of the ways we can use `Hash#fetch` to proactively handle those nils before they happen.

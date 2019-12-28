@@ -8,4 +8,4 @@ keywords: ["code"]
 banner: ""
 ---
 
-# Read my thoughts on state over at [egghead](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
+Read my thoughts on state over at [egghead](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
