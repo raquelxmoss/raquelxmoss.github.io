@@ -11,14 +11,17 @@ per_page: 50
 <% end %>
 <div class="article-list">
   <% page_articles.each_with_index do |article, i| %>
-    <section class="article-preview">
-      <h2><%= link_to article.title, article %></h2>
-      <div class="article-summary"><%= article.summary %></div>
-      <p class="article-metadata">
-        <span class="article-date"><%= article.date.strftime('%e %B %Y') %></span>
-        <span class="read-more"><%= link_to "Read article", article %></span>
-      </p>
-    </section>
+    <div class="article-preview">
+      <section "overlay">
+        <h2><%= link_to article.title, article %></h2>
+        <div class="article-summary"><%= article.summary %></div>
+        <p class="article-metadata">
+          <span class="article-date"><%= article.date.strftime('%e %B %Y') %></span>
+          <span class="read-more"><%= link_to "Read article", article %></span>
+        </p>
+      </section>
+      <div class="underlay"></div>
+    </div>
   <% end %>
 </div>
 
