@@ -1,9 +1,17 @@
 <% wrap_layout :layout do %>
+  <% if image = current_page.data.image %>
+    <div class="article-featured-image">
+      <%= image_tag image %>
+    </div>
+  <% end %>
   <div class="article-container">
     <article class="article">
       <h2><%= current_page.data.title %></h2>
       <%= yield %>
     </article>
     <div class="underlay"></div>
+    <% if image = current_page.data.image %>
+      <p class="article-image-credit"><%= unsplash_link(current_page.data.image_credit) %></p>
+    <% end %>
   </div>
 <% end %>

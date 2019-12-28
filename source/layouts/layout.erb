@@ -17,16 +17,13 @@
       <header>
         <h1><a href="/">Raquel Moss</a></h1>
       </header>
-      <!--
       <nav>
         <ul>
-          <li class="active">About</li>
-          <li>Blog</li>
-          <li>CV</li>
-          <li>Contact</li>
+          <% active = current_page.page_id %>
+          <li class=<%= active == "about" ? "active" : ""%>><%= link_to "About", "/about" %></li>
+          <li class=<%= active == "index" ? "active" : ""%>><%= link_to "Blog", "/" %></li>
         </ul>
       </nav>
-      -->
     </div>
     <main>
       <%= yield %>

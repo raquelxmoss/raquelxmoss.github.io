@@ -5,7 +5,10 @@ title: "Self-Control is easier if you don't have to think about it"
 description: "How to automate Self-Control on MacOS with cron"
 categories: ["self-control", "automation"]
 keywords: ["self-control", "automation", "bash"]
+image: "automating-self-control.jpg"
+image_credit: ["Chris Barbalis", "@cbarbalis"]
 ---
+
 TL;DR, [here's](https://github.com/raquelxmoss/dotfiles/blob/master/.selfcontrol.sh) the script you're looking for to automate SelfControl on macOS. 
 
 For the past few years I've been using the excellent open-source app SelfControl to help with keeping me on task and maybe salvaging a skerrick of my attention span (it's a work-in-progress).

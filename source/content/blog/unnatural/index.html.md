@@ -2,6 +2,7 @@
 slug: "/unnatural"
 date: 2015-09-01
 title: "Unnatural"
+image: "unnatural.jpg"
 description: "Programming doesn't come naturally to me"
 categories: ["programming", "learning"]
 ---

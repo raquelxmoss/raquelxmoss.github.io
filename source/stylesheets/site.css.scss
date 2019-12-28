@@ -5,6 +5,23 @@ $orange: #E25327;
 $tablet: 768px;
 $phone: 450px;
 
+.article-featured-image {
+  z-index: 2;
+  position: absolute;
+  right: -150px;
+  opacity: 40%;
+
+  img {
+    height: 500px;
+    width: 500px;
+    clip-path: circle(50%);
+  }
+}
+
+.article-image-credit {
+  font-size: 0.8em;
+}
+
 .underlay {
   position: absolute;
   z-index: 2;
@@ -27,6 +44,8 @@ body {
   margin: 0;
   padding: 1em;
   color: #333;
+  height: 100%;
+  overflow-x: hidden;
 }
 
 main {

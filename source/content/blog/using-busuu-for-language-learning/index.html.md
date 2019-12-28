@@ -4,6 +4,8 @@ date: 2019-12-21
 title: "Using Busuu to Learn Languages"
 description: "Learn how Busuu can help you learn a language, and its advantages over Duolingo"
 categories: ["languages", "learning"]
+image: "busuu.jpg"
+image_credit: ["Priscilla Du Preez", "@priscilladupreez"]
 ---
 
 *Obligatory note: Busuu haven't paid me to write about them, and there are no affiliate links in this post. At the time of writing, Busuu offers Spanish, German, Japanese, English, French, Italian, Portuguese, Chinese, Polish, Turkish, Russian, and Arabic.*
@@ -26,12 +28,11 @@ A slightly newer feature is Busuu's vocabulary drilling, where spaced repetition
 
 Right now, I'm revising Spanish for an upcoming trip to Mexico. I study for 30 minutes every day, usually during my lunch break. I'll usually begin by drilling some vocabulary, then moving on to my next topic. A full lesson usually comprises new vocabulary, listening to dialogue and filling in the gaps. After that, a short quiz, and then usually a grammar topic is introduced. Finally, I'll complete a freeform written exercise, or record myself speaking. 
 
-![A Busuu Lesson](https://i.imgur.com/xnHuEkD.png)
-
+![A Busuu Lesson](/content/blog/using-busuu-for-language-learning/busuu-exercise.png)
 
 One of Busuu's features that I didn't expect to enjoy so much is the assessment of those written and spoken tasks. My work will be sent out to native speakers of my target language, who will correct it and give me feedback. In turn, I correct one or two exercises for people who are learning English. I'm under no obligation to do this, but I find it fun, and it only takes a moment or two. There's a real sense of reciprocity, and I think it's one of the huge advantages of Busuu. When completing Duolingo's speaking tasks (over a piece of crap phone microphone, with a computer assessing my accuracy) I was never sure if my pronunciation was bang on or way off. With Busuu, native speakers will point out where I'm going wrong and help me get better.
 
-![Written Busuu Exercise](https://i.imgur.com/GKTyBpu.png)
+![Written Busuu Exercise](/content/blog/using-busuu-for-language-learning/busuu-writing-exercise.png)
 
 Busuu is much more challenging than Duolingo, which is perfect for me. It frequently introduces phrases that are too hard for my current level, but which expose me to more of the language. For example, in a listening exercise, I might not understand part of a sentence, but I can figure out the gist of it through context. This approach aligns with everything I know about best practise in language learning and teaching, and it keeps things interesting for me.
 
