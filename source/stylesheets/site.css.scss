@@ -5,38 +5,6 @@ $orange: #E25327;
 $tablet: 768px;
 $phone: 450px;
 
-.article-featured-image {
-  z-index: 2;
-  position: absolute;
-  right: -150px;
-  opacity: 50%;
-
-  img {
-    height: 500px;
-    width: 500px;
-    clip-path: circle(50%);
-  }
-}
-
-.article-image-credit {
-  font-size: 0.8em;
-}
-
-.underlay {
-  position: absolute;
-  z-index: 2;
-  background: rgba(226, 83, 39, 0.6);
-  width: 170px;
-  height: 170px;
-  clip-path: circle(50%);
-  mix-blend-mode: color-dodge;
-}
-
-.article {
-  z-index: 1;
-  padding: 3em;
-}
-
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -67,15 +35,19 @@ h1, h2, h3 {
   line-height: 1.5;
 }
 
-img { max-width: 100%; }
-
-a {
-  color: $base-text;
-
-  &:visited {
-    color: $base-text;
-  }
+img {
+  max-width: 100%;
 }
+
+a, a:visited {
+  color: $base-text;
+}
+
+.instagram-media {
+  width: 100% !important;
+  margin: 3em auto !important;
+}
+
 
 .header {
   display: flex;
@@ -114,54 +86,4 @@ p {
   line-height: 1.6;
 }
 
-.article-list {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.article-container {
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  .underlay {
-    align-self: baseline;
-  }
-}
-
-.article-preview {
-  width: 100%;
-  z-index: 1;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 8em;
-  line-height: 1;
-
-  section { padding: 3em; }
-
-  p {
-    font-size: 1em;
-  }
-
-  a {
-    text-decoration: none;
-  }
-
-  .article-metadata {
-    margin: 0;
-    padding: 0;
-  }
-
-  .article-date {
-    color: lighten($base-text, 20%);
-  }
-
-  .read-more {
-    a {
-      float: right;
-      color: $orange;
-    }
-  }
-}
+@import "articles.css.scss";

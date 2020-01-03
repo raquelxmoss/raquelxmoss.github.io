@@ -1,0 +1,11 @@
+<div class="article-preview">
+  <section "article-preview__overlay">
+    <h2><%= link_to article.title, article %></h2>
+    <div class="article-preview__summary"><%= article.summary %></div>
+    <p class="article-preview__metadata">
+    <span class="article-preview__date"><%= article.date.strftime('%e %B %Y') %></span>
+    <span class="article-preview__read-more"><%= link_to "Read article", article %></span>
+    </p>
+  </section>
+  <div class="article-preview__underlay"></div>
+</div>
