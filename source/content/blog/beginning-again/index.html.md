@@ -1,6 +1,6 @@
 ---
 slug: "/beginning-again"
-date: 2018-01-03
+date: 2018-03-01
 title: "Beginning Again"
 description: ""
 categories: ["travel", "moving", "life"]
