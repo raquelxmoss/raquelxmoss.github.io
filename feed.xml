@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2019-12-21T01:00:00+01:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Using Busuu to Learn Languages</title>
+    <link rel="alternate" href="http://blog.url.com/using-busuu-for-learning-languages/"/>
+    <id>http://blog.url.com/using-busuu-for-learning-languages/</id>
+    <published>2019-12-21T01:00:00+01:00</published>
+    <updated>2019-12-28T18:05:39+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Obligatory note: Busuu haven't paid me to write about them, and there are no affiliate links in this post. At the time of writing, Busuu offers Spanish, German, Japanese, English, French, Italian, Portuguese, Chinese, Polish, Turkish, Russian, and Arabic.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hands up if you, like me, are a frustrated faux-polyglot with ambitions to do better?&lt;/p&gt;
+
+&lt;p&gt;I speak English natively, and I grew up speaking Swiss German, though this language is now long-dormant. At high school I studied Spanish and French each for three years, and between high school and university, I spent time in Costa Rica solidifying my skills. Last year I lived in Germany, where I learned a little more &lt;em&gt;hochdeutsch&lt;/em&gt;, aided by my childhood memories of &lt;em&gt;schweizerdeutsch&lt;/em&gt;. I've also taught a language—I got my graduate diploma in teaching English to speakers of other languages, and worked with international students at a New Zealand university. Right now, Spanish is my best non-native language, French is my worst, and German sits somewhere in between.&lt;/p&gt;
+
+&lt;p&gt;Really, though, I want to get my shit together and gain a lot more fluency in at least one of these languages. Like most good millennials, I've turned to apps to help with that. It makes sense for me: I move and travel frequently at the moment, and I work full-time, so enrolling in a language course is tricky.&lt;/p&gt;
+
+&lt;p&gt;There's a lot of criticism of language-learning apps, and a lot of posturing; "Learn X in Y minutes" is thrown about a lot. As a language learner and previous language teacher, I'm under no illusions. I don't expect apps to get me to fluency in a language. I think they absolutely have their place, though, and my app of choice is &lt;a href="https://busuu.com"&gt;Busuu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Duolingo is the most well-known language training app out there, and I struggled through it for a long time. Its frequently nonsensical sentences introduced me to new vocabulary, but I found the lack of contextual explanation frustrating. A lightbulb moment for me was when I discovered that Duolingo's web app contained a lot more explanation than its iOS app, and allowed me to test out of easier levels, but I was seriously annoyed at the lack of parity. I found Duolingo's exercises boring, and I dreaded them.&lt;/p&gt;
+
+&lt;p&gt;Busuu takes a different approach. I find it much more similar to being in a language class in high school (which I loved). A new concept is introduced—new vocabulary in isolation, and then in a sentence. You are quizzed and asked to perform various exercises: fill in the gaps, answer the question correctly, conjugate a verb. Questions are initially asked in your primary language, but eventually they are switched to your target language.&lt;/p&gt;
+
+&lt;p&gt;Grammar structures are introduced regularly, in conjunction with a theme to guide your learning—office conversations, talking about what you did during the weekend, talking about travel plans, and so on. There are high-quality recordings of conversations between native speakers that are lengthy enough to be genuinely interesting and, importantly, relevant to everyday life. As you move up in difficulty, you'll even get videos and (simplified) newspaper articles.&lt;/p&gt;
+
+&lt;p&gt;A slightly newer feature is Busuu's vocabulary drilling, where spaced repetition is used to strengthen vocabulary you might have forgotten. I was really pleased when they introduced this feature, because previously Duolingo had them beat on that.&lt;/p&gt;
+
+&lt;p&gt;Right now, I'm revising Spanish for an upcoming trip to Mexico. I study for 30 minutes every day, usually during my lunch break. I'll usually begin by drilling some vocabulary, then moving on to my next topic. A full lesson usually comprises new vocabulary, listening to dialogue and filling in the gaps. After that, a short quiz, and then usually a grammar topic is introduced. Finally, I'll complete a freeform written exercise, or record myself speaking.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/content/blog/using-busuu-for-language-learning/busuu-exercise.png" alt="A Busuu Lesson" /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of Busuu's features that I didn't expect to enjoy so much is the assessment of those written and spoken tasks. My work will be sent out to native speakers of my target language, who will correct it and give me feedback. In turn, I correct one or two exercises for people who are learning English. I'm under no obligation to do this, but I find it fun, and it only takes a moment or two. There's a real sense of reciprocity, and I think it's one of the huge advantages of Busuu. When completing Duolingo's speaking tasks (over a piece of crap phone microphone, with a computer assessing my accuracy) I was never sure if my pronunciation was bang on or way off. With Busuu, native speakers will point out where I'm going wrong and help me get better.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/content/blog/using-busuu-for-language-learning/busuu-writing-exercise.png" alt="Written Busuu Exercise" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Busuu is much more challenging than Duolingo, which is perfect for me. It frequently introduces phrases that are too hard for my current level, but which expose me to more of the language. For example, in a listening exercise, I might not understand part of a sentence, but I can figure out the gist of it through context. This approach aligns with everything I know about best practise in language learning and teaching, and it keeps things interesting for me.&lt;/p&gt;
+
+&lt;p&gt;Part of the reason I would dread my daily Duolingo study is that I found it so boring and repetitive. It didn't allow me to jump around too much if I just wasn't in the mood for a specific lesson (Busuu does!), and the mindless repetition felt like a poor use of my time.&lt;/p&gt;
+
+&lt;p&gt;Aside from the language learning aspects, I've been really happy with the quality of the Busuu app, both the iOS app and the web app. I don't see any parity gaps—I can study equally using my phone or the web app, depending on what's best for me in the moment. I'm particularly impressed with the thoughtful UX on the iOS app. It's really quite slick, and works well on my very small iPhone SE. The product development team there has really put a lot of thought into how to make best use of the small screen space, and I think they should be proud of what they've made.&lt;/p&gt;
+
+&lt;p&gt;I paid for Busuu's "Premium Plus" membership, which was on sale for €39.99 for 12 months. An extremely reasonable price which I am very happy to pay, and which I'll no doubt renew.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Self-Control is easier if you don't have to think about it</title>
+    <link rel="alternate" href="http://blog.url.com/automating-self-control/"/>
+    <id>http://blog.url.com/automating-self-control/</id>
+    <published>2019-09-13T02:00:00+02:00</published>
+    <updated>2019-12-28T17:45:43+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;TL;DR, &lt;a href="https://github.com/raquelxmoss/dotfiles/blob/master/.selfcontrol.sh"&gt;here's&lt;/a&gt; the script you're looking for to automate SelfControl on macOS.&lt;/p&gt;
+
+&lt;p&gt;For the past few years I've been using the excellent open-source app SelfControl to help with keeping me on task and maybe salvaging a skerrick of my attention span (it's a work-in-progress).&lt;/p&gt;
+
+&lt;p&gt;SelfControl blocks distracting websites at a fairly low level on your machine. You can't just swap to a different browser, or edit a configuration block to get to twitter, you've just got to sit there and wait. Amongst other things, SelfControl edits your /etc/hosts file, and does a few other things to prevent you from outsmarting it.&lt;/p&gt;
+
+&lt;p&gt;The thing is, in order for SelfControl to work, you do actually have to turn it on. And this is so often where I stumbled–it's both very easy and very tempting to not turn the app on. Around December last year I decided to take that decision (or lack thereof) away from myself by setting an automatic schedule for Self-Control to obey, say, 8am to 4pm on weekdays. I used an open-source Python tool to achieve this, but it broke at some point in the last few months, after an OS update.&lt;/p&gt;
+
+&lt;p&gt;I had a look at the Python library's GitHub repo to see if I could fix the issue, but I got lost in the weeds. Instead I decided to automate it with cron.*&lt;/p&gt;
+
+&lt;p&gt;The script and some brief instructions are &lt;a href="https://github.com/raquelxmoss/dotfiles/blob/master/.selfcontrol.sh"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The SelfControl repo provides &lt;a href="https://github.com/SelfControlApp/selfcontrol/wiki/Running-SelfControl-from-the-Terminal"&gt;some instructions&lt;/a&gt; on how to run the app from the command line:&lt;/p&gt;
+
+&lt;iframe src="https://carbon.now.sh/embed?bg=rgba(255%2C255%2C255%2C1)&amp;amp;t=dracula&amp;amp;wt=none&amp;amp;l=application%2Fx-sh&amp;amp;ds=false&amp;amp;dsyoff=20px&amp;amp;dsblur=68px&amp;amp;wc=true&amp;amp;wa=true&amp;amp;pv=56px&amp;amp;ph=64px&amp;amp;ln=true&amp;amp;fl=1&amp;amp;fm=Hack&amp;amp;fs=18px&amp;amp;lh=140%25&amp;amp;si=false&amp;amp;es=4x&amp;amp;wm=false&amp;amp;code=defaults%2520write%2520org.eyebeam.SelfControl%2520BlockDuration%2520-int%2520120%250Adefaults%2520write%2520org.eyebeam.SelfControl%2520HostBlacklist%2520-array%2520facebook.com%2520news.ycombinator.com%250Adefaults%2520read%2520org.eyebeam.SelfControl%250Asudo%2520%252FApplications%252FSelfControl.app%252FContents%252FMacOS%252Forg.eyebeam.SelfControl%2520%2524(id%2520-u%2520%2524(whoami))%2520--install" style="transform:scale(0.7); width:100%; height:350px; border:0; overflow:hidden;" sandbox="allow-scripts allow-same-origin"&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;The first line sets up the length of the block in minutes (in the example, 2 hours). The second line sets up the sites that will be blocked, so you’ll want to tweak that to your own particular vices.&lt;/p&gt;
+
+&lt;p&gt;On line four you run the app as root.&lt;/p&gt;
+
+&lt;p&gt;You can save those lines as a bash script (don’t forget to make it executable), and store it in &lt;code&gt;/usr/local/bin&lt;/code&gt;.*&lt;/p&gt;
+
+&lt;p&gt;The trick to getting this to run on a cron schedule is that you need to do so as root.&lt;/p&gt;
+
+&lt;p&gt;To achieve that, crack open &lt;code&gt;sudo crontab -e&lt;/code&gt;, put in your password, and then add something along these lines:&lt;/p&gt;
+
+&lt;iframe src="https://carbon.now.sh/embed?bg=rgba(255%2C255%2C255%2C1)&amp;amp;t=dracula&amp;amp;wt=none&amp;amp;l=application%2Fx-sh&amp;amp;ds=false&amp;amp;dsyoff=20px&amp;amp;dsblur=68px&amp;amp;wc=true&amp;amp;wa=true&amp;amp;pv=56px&amp;amp;ph=64px&amp;amp;ln=false&amp;amp;fl=1&amp;amp;fm=Hack&amp;amp;fs=18px&amp;amp;lh=140%25&amp;amp;si=false&amp;amp;es=4x&amp;amp;wm=false&amp;amp;code=0%25208%2520*%2520*%2520*%2520%252Fusr%252Flocal%252Fbin%252F.selfcontrol.sh" style="transform:scale(0.7); width:100%; height:170px; border:0; overflow:hidden;" sandbox="allow-scripts allow-same-origin"&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;That’s going to run at 8am every day, which suits me. If you alter the schedule, use &lt;a href="https://crontab.guru/"&gt;crontab.guru&lt;/a&gt; to make sure you’ve got the expression right.&lt;/p&gt;
+
+&lt;p&gt;That’s it!&lt;/p&gt;
+
+&lt;p&gt;You can probably do something clever to set different schedules for different days, or weekends vs weekdays, and I’ll probably experiment with that over the weekend. In any case, I hope this helps and let me know on &lt;a href="https://twitter.com/raquelxmoss"&gt;twitter&lt;/a&gt; if you run into any problems.&lt;/p&gt;
+
+&lt;p&gt;* I know cron is deprecated on MacOS but it works for now and I’m too old/cranky/lazy to learn to do it the new way until I’m forced to when this breaks.&lt;/p&gt;
+
+&lt;p&gt;* Shout out to my co-worker Adam for helping me figure out where to store it&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How I got better at journalling</title>
+    <link rel="alternate" href="http://blog.url.com/getting-better-at-journalling/"/>
+    <id>http://blog.url.com/getting-better-at-journalling/</id>
+    <published>2019-04-21T15:46:23+02:00</published>
+    <updated>2019-12-28T11:44:19+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Over the last 18 months or so, I’ve been journalling regularly and it’s made a huge difference to my mental health. My therapist is thrilled but unsurprised (lol).&lt;/p&gt;
+
+&lt;p&gt;I’ve always found a lot of value in processing thoughts and feelings by writing them down, but in the past I only really turned to that when my situation was &lt;em&gt;really&lt;/em&gt; dire. That resulted in very fragmented journalling, and because I lacked the habit, journalling wasn’t the tool I’d think to reach for first, even when it really would have helped me!&lt;/p&gt;
+
+&lt;p&gt;These days it’s my port-of-call and I journal almost every day. Here’s how I did it:&lt;/p&gt;
+
+&lt;h2 id="i-thought-really-hard-about-why-i-avoided-journalling-even-when-i-knew-it-was-good-for-me"&gt;I thought really hard about why I avoided journalling, even when I knew it was good for me.&lt;/h2&gt;
+
+&lt;p&gt;This involved a lot of thinking (obviously) and a lot of alone time. I’d think about this in the shower, while making coffee, etc. Here’s a few things that came up:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I had a myth embedded in my brain that my journal should be a fluent account of happenings in my life. That meant that when I picked up my journal after a long time of inactivity, I’d feel obligated to ‘catch up’ my journal on what had been happening in my life, as though catching up with an old friend who I hadn’t spoken to in ages. By the time I’d done that, I would be exhausted and unmotivated to write about whatever issue was actually bothering me.&lt;/li&gt;
+  &lt;li&gt;I worried about my writing being bad, or embarrassing, or downright stupid&lt;/li&gt;
+  &lt;li&gt;The hardest one to admit was that I felt like if I wrote my thoughts and feelings down, that would make them real! This is the most important one.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="i-used-tools-i-learned-in-therapy-to-challenge-each-of-those-obstacles"&gt;I used tools I learned in therapy to challenge each of those obstacles.&lt;/h2&gt;
+
+&lt;p&gt;My therapist and I worked a lot on CBT to change unhelpful thought patterns. The process we used was first to notice, then to challenge, and then to reframe. I had already done step one, noticing, which resulted in the bullet points above. My next step was to take each thought and challenge it. I usually do that by saying to myself “That’s interesting, why do you think that?” (usually in my therapist’s voice in my head, hah)&lt;/p&gt;
+
+&lt;p&gt;So:&lt;/p&gt;
+
+&lt;h3 id="why-do-you-think-that-journals-should-be-a-fluent-account-of-what-happens-in-your-life"&gt;Why do you think that journals should be a fluent account of what happens in your life?&lt;/h3&gt;
+
+&lt;p&gt;I guess because that’s what’s commonly understood to be a journal? That’s how they’re portrayed in the media. If anyone else were to read my journal, it wouldn’t make much sense, because they wouldn’t have the context of what’s been going on! So, it feels like I have to write down the catch ups.&lt;/p&gt;
+
+&lt;h3 id="why-do-you-worry-about-your-writing-being-bad-embarrassing-or-stupid"&gt;Why do you worry about your writing being bad, embarrassing, or stupid?&lt;/h3&gt;
+
+&lt;p&gt;I don’t like being seen as stupid or weak. I don’t want anyone to think that about me and I don’t want to think those things about myself. So I need to hide all evidence of my stupidity and weakness, not take notes on it!&lt;/p&gt;
+
+&lt;h3 id="why-are-you-worried-about-your-thoughts-and-feelings-becoming-real-what-would-happen-if-they-were-real"&gt;Why are you worried about your thoughts and feelings becoming &lt;em&gt;real&lt;/em&gt;? What would happen if they were &lt;em&gt;real&lt;/em&gt;?&lt;/h3&gt;
+
+&lt;p&gt;Oof. If they’re real I have to deal with them. I guess I’m afraid that I can’t deal with them. I’m also pretty sure that some of my feelings (jealousy, heartbreak) make me stupid. See above point about fear of being stupid.&lt;/p&gt;
+
+&lt;h2 id="i-then-tried-to-reframe-those-thoughts-and-eliminate-the-obstacles"&gt;I then tried to reframe those thoughts and eliminate the obstacles&lt;/h2&gt;
+
+&lt;h3 id="journals-dont-have-to-be-a-fluent-account"&gt;Journals don’t have to be a fluent account&lt;/h3&gt;
+
+&lt;p&gt;It’s your space to write whatever the fuck you want, however the fuck you want to. You don’t have to share these with anyone, no one else need read them. You can burn them after you write them if you want to. You don’t have to give anyone context. Keep your purpose in mind—you want to journal so that you can work through your feelings. So do that. Don’t feel bound by popular media’s expectations of what a journal is.&lt;/p&gt;
+
+&lt;p&gt;The rule I made was &lt;strong&gt;No Catchups, just dive right in&lt;/strong&gt;. This eliminates my guilt if I’ve avoided writing for days/weeks/months. There’s no reason for me to continue to avoid my journal, I can just dive right into my current thoughts.&lt;/p&gt;
+
+&lt;h3 id="its-okay-if-your-writing-is-bad-embarrassing-or-stupid"&gt;It’s okay if your writing is bad, embarrassing, or stupid&lt;/h3&gt;
+
+&lt;p&gt;There’s a lot more to unpack here, but basically, it’s okay if my writing is any of the above. My writing probably isn’t worse, more embarassing, or stupider than the next person’s, but even if it is, that’s okay. No one’s reading this, no one’s keeping score.&lt;/p&gt;
+
+&lt;p&gt;The rule I made was &lt;strong&gt;Be as dumb as you like, and don’t judge your thoughts&lt;/strong&gt;. That means whenever I’m hesistating because a voice in my brain is saying “That sounds dumb”, I can silence that thought because I’ve already decided that dumb is just fine in my journal.&lt;/p&gt;
+
+&lt;h3 id="your-feelings-are-already-real"&gt;Your feelings are already real&lt;/h3&gt;
+
+&lt;p&gt;A few years ago, a friend pointed me towards &lt;a href="https://wiki.lesswrong.com/wiki/Litany_of_Gendlin"&gt;The Litany of Gendlin&lt;/a&gt;, which has stuck with me. In short:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What is true is already so.
+Owning up to it doesn't make it worse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Writing down my feelings doesn’t make them real because they are already real. Writing them down just helps me focus on them and deal with them, instead of denying them and avoiding them (which I’m reeealllly good at). The quicker I can start dealing with things that are bothering me, the better. I am definitely capable of dealing with them, because I am &lt;em&gt;already&lt;/em&gt; living with them.&lt;/p&gt;
+
+&lt;p&gt;The rule I made was &lt;strong&gt;Remember the Litany of Gendlin&lt;/strong&gt;. If I found myself hesitating, I would repeat the litany, then continue writing.&lt;/p&gt;
+
+&lt;h2 id="habit"&gt;Habit&lt;/h2&gt;
+
+&lt;p&gt;With my rules set, I next worked on establishing a habit. I re-read &lt;a href="https://www.goodreads.com/book/show/615570.The_Artist_s_Way"&gt;The Artist’s Way&lt;/a&gt;, which is a book that has many, many faults, but a few gems of wisdom. On of the key tennets is that you don’t have to be in a particular mood in order to be creative. Creativity is a habit. The author suggests that everyone write three pages a day, every day, longhand with pen and paper. So that’s what I do.&lt;/p&gt;
+
+&lt;p&gt;When working digitally, I find it easy to get too caught up in bikeshedding—which tool should I use? Ooh maybe I should try a new tool? But all my other entries are over at the old one! I’ll have to migrate them over! etc. etc. etc. No problems if digital works for you! I’ve just personally found more success with pen and paper. It hurt my hand initially, but after about a week I was fine.&lt;/p&gt;
+
+&lt;p&gt;Oh! I nearly forgot. One thing I also tried was audio journalling, which you could try! I did that once because I was lying in bed in the dark with my thoughts and I needed to get them out of my head but I didn’t want to turn on a light. So I just pulled up the recording app on my phone and talked.&lt;/p&gt;
+
+&lt;p&gt;Most importantly, if I drop a few days, or weeks, (or months, though that hasn’t happened yet), I return with no judgement, no catchups, and no giving myself a hard time.&lt;/p&gt;
+
+&lt;p&gt;If I have nothing to write, I do like Bart Simpson and write the same thing over and over and over again, until I’ve filled three pages. This could be “I have nothing to write” or it could be a phrase or poem or quote that I like—I’ve used the Litany of Gendlin before. Usually this bores me enough to spur me into writing something different.&lt;/p&gt;
+
+&lt;p&gt;Some days I write about things that have happened to me. Other days I write about thoughts that are bothering me. Sometimes I write about people I’ve known, kind of character studies. Occasionally I do a little fiction. Whatever takes my fancy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;That’s how I got better at journalling. The most important step was all the thinking I did about it beforehand, and the new positive rules I set for myself. The habit-building was secondary to all that, but came easier once I’d removed the guilt and shame that my previous conceptions about journalling caused in me when I missed days or didn’t otherwise journal ‘properly’.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Using `Hash#fetch` in Ruby for better nil handling</title>
+    <link rel="alternate" href="http://blog.url.com/using-ruby-hash-fetch/"/>
+    <id>http://blog.url.com/using-ruby-hash-fetch/</id>
+    <published>2019-03-13T03:24:24+01:00</published>
+    <updated>2019-12-28T11:43:14+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Pulling values out of a Hash in Ruby is simple with the &lt;code&gt;[]&lt;/code&gt; method, but problems can occur when the value you’re looking up isn’t there. This can result in cumbersome nil checks, or our absolute favourite error  &lt;code&gt;Undefined method for nil:NilClass&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at an example of a classifieds site that sorts its listings when displaying them for the user, and some of the ways we can use &lt;code&gt;Hash#fetch&lt;/code&gt; to proactively handle those nils before they happen.&lt;/p&gt;
+
+&lt;p&gt;Just a quick note on the code—these examples are moderately contrived and not necessarily how you’d solve these problems in production, but hey, at least they illustrate my points!&lt;/p&gt;
+
+&lt;h2 id="using-hashfetch-to-set-a-default"&gt;Using Hash#fetch to set a default&lt;/h2&gt;
+
+&lt;p&gt;```ruby
+def index
+  valid_sort_orders = {
+  lowest_price: :asc,
+  highest_price: :desc
+  }&lt;/p&gt;
+
+&lt;p&gt;sort_order = valid_sort_orders[listings_params[:sort]]&lt;/p&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)
+end
+```&lt;/p&gt;
+
+&lt;p&gt;We have a problem here—what if the &lt;code&gt;sort&lt;/code&gt; parameter is not provided by the user, or they provide something that’s invalid? There’s many ways to handle this problem, for example, we could set a default with the &lt;code&gt;||&lt;/code&gt; operator. This is a pretty common pattern, and a perfectly fine way to handle this case.&lt;/p&gt;
+
+&lt;p&gt;```ruby
+def index
+  valid_sort_orders = {
+    lowest_price: :asc,
+    highest_price: :desc
+  }&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sort_order = valid_sort_orders[listings_params[:sort]]&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;:asc&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)
+end
+```&lt;/p&gt;
+
+&lt;p&gt;Personally, I prefer to use the &lt;code&gt;Hash#fetch&lt;/code&gt; method for a slightly more elegant solution. With &lt;code&gt;Hash#fetch&lt;/code&gt;, if a key is not found in a hash, we can provide a default key to look for, which is quite a nice way to handle our nil situation.&lt;/p&gt;
+
+&lt;p&gt;```ruby
+def index
+  valid_sort_orders = {
+    lowest_price: :asc,
+    highest_price: :desc
+  }&lt;/p&gt;
+
+&lt;p&gt;sort_order = valid_sort_orders.fetch(listings_params[:sort], :asc)&lt;/p&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)
+end
+```&lt;/p&gt;
+
+&lt;p&gt;Semantics alone aren’t a great reason to use this pattern though, so lets look at some more interesting examples where &lt;code&gt;Hash#fetch&lt;/code&gt; can be used to proactively handle nils.&lt;/p&gt;
+
+&lt;h2 id="using-hashfetch-to-set-a-falsey-value"&gt;Using &lt;code&gt;Hash#fetch&lt;/code&gt; to set a falsey value&lt;/h2&gt;
+
+&lt;p&gt;This pattern is useful when you want to accept falsey values from a caller, but default to a truthy value. Let’s look at an example.&lt;/p&gt;
+
+&lt;p&gt;Here we want to be able to control with parameters whether to include a seller’s details in the response, with a default value of &lt;code&gt;true&lt;/code&gt;.  It’s easy to accidentally do something like this:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+def index
+  @include_seller_details = listings_params[:include_metadata] || true&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;valid_sort_orders = {
+lowest_price: :asc,
+highest_price: :desc   }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;sort_order = valid_sort_orders.fetch(listings_params[:sort], :asc)&lt;/p&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)
+end
+```&lt;/p&gt;
+
+&lt;p&gt;Which is not going to work correctly! Because if &lt;code&gt;listing_params[:include_metadata]&lt;/code&gt; is a falsey value, this will evaluate to &lt;code&gt;true&lt;/code&gt; anyway. It’s probably not disasterous, but it means that we’re going to be sending more information in the response than we want to, which is impolite at best and could be a security concern at worst.&lt;/p&gt;
+
+&lt;p&gt;One way to fix this would be to use &lt;code&gt;Hash#fetch&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;```ruby
+def index
+  @include_seller_details = listing_params.fetch(:include_metadata, true)&lt;/p&gt;
+
+&lt;p&gt;valid_sort_orders = {
+    lowest_price: :asc,
+    highest_price: :desc
+  }&lt;/p&gt;
+
+&lt;p&gt;sort_order = valid_sort_orders.fetch(listings_params[:sort], :asc)&lt;/p&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)
+end
+```&lt;/p&gt;
+
+&lt;p&gt;In this example, if there is any value at &lt;code&gt;:include_metadata&lt;/code&gt;, including a falsey value, it will be set, which is exactly what we want.&lt;/p&gt;
+
+&lt;h2 id="run-a-block-of-code-if-you-dont-find-what-youre-looking-for"&gt;Run a block of code if you don’t find what you’re looking for&lt;/h2&gt;
+
+&lt;p&gt;In the case where you don’t find what you’re looking for in a hash, returning a default value is nice, as we’ve seen. Sometimes, though, a simple value won’t do, and you might want to run a block of code as a fallback instead. &lt;code&gt;Hash#fetch&lt;/code&gt; accepts a block to help you achieve this, which is pretty nifty!&lt;/p&gt;
+
+&lt;p&gt;In this example, if a user sends an invalid sort order to the API, we will record that in an analytics service. That will help us decide if we want to build that feature for our users next. If a lot of users are requesting to order Listings by &lt;code&gt;popular&lt;/code&gt; or &lt;code&gt;new&lt;/code&gt;, it’s handy for us to know that. So, we’ll report the value, then return the default.&lt;/p&gt;
+
+&lt;p&gt;```ruby
+def index
+  @include_seller_details = listing_params.fetch(:include_metadata, true)&lt;/p&gt;
+
+&lt;p&gt;valid_sort_orders = {
+    lowest_price: :asc,
+    highest_price: :desc
+  }&lt;/p&gt;
+
+&lt;p&gt;sort_order = valid_sort_orders.fetch(listings_params[:sort]) do |value|
+    Analytics.report("user requested to sort listings by #{value}")
+    :asc
+  end&lt;/p&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)
+end
+```&lt;/p&gt;
+
+&lt;h2 id="safer-handling-of-environment-variables-with-hashfetch"&gt;Safer handling of environment variables with &lt;code&gt;Hash#fetch&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;Poor handling of environment variables can make for some pretty disasterous outcomes (…ask me how I know). After being bitten more than once, I like to use &lt;code&gt;Hash#fetch&lt;/code&gt; when retrieving environment variables.&lt;/p&gt;
+
+&lt;p&gt;This is especially important if you are using environment variables to feature flag releases, or if adding/removing environment variables is something that is handled separately to your normal code deploy process.&lt;/p&gt;
+
+&lt;p&gt;code expecting an environment variable + a silent failure if it’s not there + failing to correctly set an environment variable = potentially very costly mistake&lt;/p&gt;
+
+&lt;p&gt;:upside_down_face:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+def index
+  seasonal_discount = ENV["SEASONAL_DISCOUNT"]&lt;/p&gt;
+
+&lt;p&gt;valid_sort_orders = {
+    lowest_price: :asc,
+    highest_price: :desc
+  }&lt;/p&gt;
+
+&lt;p&gt;sort_order = valid_sort_orders.fetch(listings_params[:sort], :asc)&lt;/p&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)&lt;/p&gt;
+
+&lt;p&gt;if seasonal_discount
+    @listings = @listings.map(&amp;amp;:apply_seasonal_discount)
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;In this case, if someone fails to set the &lt;code&gt;SEASONAL_DISCOUNT&lt;/code&gt; environment variable, we might fail to notice because nothing here is going to throw an error. Our customers will miss out on a good deal!&lt;/p&gt;
+
+&lt;p&gt;We can use &lt;code&gt;Hash#fetch&lt;/code&gt; so that this fails noisily when no env var is found.&lt;/p&gt;
+
+&lt;p&gt;```ruby
+def index
+  seasonal_discount = ENV.fetch("SEASONAL_DISCOUNT")&lt;/p&gt;
+
+&lt;p&gt;valid_sort_orders = {
+    lowest_price: :asc,
+    highest_price: :desc
+  }&lt;/p&gt;
+
+&lt;p&gt;sort_order = valid_sort_orders.fetch(listings_params[:sort], :asc)&lt;/p&gt;
+
+&lt;p&gt;@listings = Listing.order(price: sort_order)&lt;/p&gt;
+
+&lt;p&gt;if seasonal_discount
+    @listings = @listings.map(&amp;amp;:apply_seasonal_discount)
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;If no environment variable is found, this will fail noisily and your code probably won’t even deploy correctly. You could also choose to set a default if it makes more sense to do so, but there are often cases when a noisy failure is preferable.&lt;/p&gt;
+
+&lt;h3 id="those-are-some-of-my-favourite-uses-for-hashfetch-its-a-really-useful-tool-for-any-rubyist-and-i-think-its-good-to-remember-that--is-not-the-only-way-to-retrieve-values-from-a-hash"&gt;Those are some of my favourite uses for &lt;code&gt;Hash#fetch&lt;/code&gt;. It's a really useful tool for any Rubyist, and I think it’s good to remember that &lt;code&gt;[]&lt;/code&gt; is not the only way to retrieve values from a Hash.&lt;/h3&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Visiting the Feuerle Collection in Berlin</title>
+    <link rel="alternate" href="http://blog.url.com/visiting-feuerle-collection/"/>
+    <id>http://blog.url.com/visiting-feuerle-collection/</id>
+    <published>2019-01-14T01:00:00+01:00</published>
+    <updated>2020-01-03T12:28:28+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B6zyr4SFbTT/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:16px;"&gt; &lt;a href="https://www.instagram.com/p/B6zyr4SFbTT/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"&gt; &lt;div style=" display: flex; flex-direction: row; align-items: center;"&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0;"&gt;&lt;/div&gt; &lt;div style="display:block; height:50px; margin:0 auto 12px; width:50px;"&gt;&lt;svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"&gt;&lt;div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=" margin:8px 0 0 0; padding:0 4px;"&gt; &lt;a href="https://www.instagram.com/p/B6zyr4SFbTT/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"&gt;Happy New Year! Welcome to The Feuerle Collection . . . #art #museum #privatecollection #collection #exhibition #berlin #berlinart #bunker #contemporary #contemporaryart #picoftheday #photooftheday #amazing #awesome #privatemuseum #khmer #china #arte #design #architecture #sculpture&lt;/a&gt;&lt;/p&gt; &lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;A post shared by &lt;a href="https://www.instagram.com/thefeuerlecollection/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"&gt; The Feuerle Collection&lt;/a&gt; (@thefeuerlecollection) on &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-01-02T07:41:16+00:00"&gt;Jan 1, 2020 at 11:41pm PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async="" src="//www.instagram.com/embed.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;It was the first week of good spring weather in Berlin when I went to visit the &lt;a href="http://thefeuerlecollection.org"&gt;Feuerle Collection&lt;/a&gt;, a private art collection comprising Southeast Asian sculptures, Imperial Chinese furniture, and contemporary art. I was early to meet my friend, so I sat in a nearby park, taking in the sun and watching a family get in their first grilling of the year.&lt;/p&gt;
+
+&lt;p&gt;I had read about the Feuerle Collection on some hip Berlin blog, and to be honest I was most intrigued by the collection’s location — a WWII bunker in Kreuzberg which has been minimally refurbished to house the artworks, and become a part of the collection itself.&lt;/p&gt;
+
+&lt;p&gt;The core theme of the collection is juxtaposition, and my descent from the bright Spring sunshine into the dark bunker certainly added to my experience.&lt;/p&gt;
+
+&lt;p&gt;Visits to the museum are by appointment only, and by some luck my friend and I ended up alone for our visit. We were met outside by a security guard, then sent in and introduced to our guide. She took us downstairs and our tour began.&lt;/p&gt;
+
+&lt;p&gt;The visit begins with some minimalist music which plays while you stand in an almost completely dark hallway. Neither my friend nor I were sure what to make of this. We were probably meant to be sombre and take it seriously, or more likely just ‘be in the moment’ and let the music wash over us.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, to me it all felt a bit too melodramatic — standing in the dark in a bunker, listening to a strange ‘minimalist’ composition, waiting to be led into an art collection. It felt staged and it didn’t suspend my disbelief, which is the key criterion by which I’ve come to judge audiovisual artistic performances. If you can make me forget for a moment that I am an awkward woman questioning everything and wondering if I’m doing the right things to fit in, then you’ve succeeded. This part of the collection didn’t do that for me, but at least it was short.&lt;/p&gt;
+
+&lt;p&gt;Next, you’re led into a large and dimly lit room, and the mood changed swiftly from melodrama to genuine drama. Turning the corner and getting your first glance at the collection is pretty breathtaking. The room is large and open, minimally lit, and filled primarily with Khmer sculptures.&lt;/p&gt;
+
+&lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BXKvKjEAS0C/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:16px;"&gt; &lt;a href="https://www.instagram.com/p/BXKvKjEAS0C/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"&gt; &lt;div style=" display: flex; flex-direction: row; align-items: center;"&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0;"&gt;&lt;/div&gt; &lt;div style="display:block; height:50px; margin:0 auto 12px; width:50px;"&gt;&lt;svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"&gt;&lt;div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BXKvKjEAS0C/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;A post shared by The Feuerle Collection (@thefeuerlecollection)&lt;/a&gt; on &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-07-30T10:42:51+00:00"&gt;Jul 30, 2017 at 3:42am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async="" src="//www.instagram.com/embed.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;Unlike many museums, the collection doesn’t have signage — you have to ask your guide questions to find out about the artworks.&lt;/p&gt;
+
+&lt;p&gt;My friend and I wandered through the works in silence before I eventually worked up the nerve to ask questions of our guide. It felt odd — like I was part of the performance. Each tour is unique, with its visitors creating a new script every time. I felt like I needed a cheat sheet or some prompts — what do other people ask when they visit? Am I asking the right questions? What if there’s some secret trove of information that I don’t know to ask about? The guide offers no hints.&lt;/p&gt;
+
+&lt;p&gt;I only remember two questions that I asked. First, I asked the guide which was her favourite work, and why. She pointed towards a Khmer statue towards the centre of the room and said “this one, because he looks calm”. Well, I couldn’t argue with that. He had that benign, serene smile that reminds me of the &lt;a href="https://en.wikipedia.org/wiki/Bayon#/media/File:Das_L%C3%A4cheln_von_Angkor.jpg"&gt;Bayon temple&lt;/a&gt; at Angkor. To be honest though, I had hoped for a more interesting answer — perhaps a work with a rich history, or one that depicted an interesting myth. Perhaps I just wasn’t asking the right questions.&lt;/p&gt;
+
+&lt;p&gt;The second question I remembered asking was about the politics — what do the Khmer people think of these statues being here? Have there been any efforts to repatriate them? Yet again I was disappointed by a cool and uncomplicated answer along the lines of “they don’t mind”. I didn’t drill into how Mr Feuerle came to possess the statues, but I would be interested to know.&lt;/p&gt;
+
+&lt;p&gt;I’m curious about what happens if a guide has a particularly reticent group. On the spot, I don’t think I asked very good questions. What if I hadn’t asked any at all?&lt;/p&gt;
+
+&lt;p&gt;Contrasting the ancient works are a few pieces of contemporary art. &lt;a href="http://anishkapoor.com/4659/torus"&gt;Torus by Anish Kapoor&lt;/a&gt; looms at the back of the first floor, reflecting the solemn room and looking alien amongst the carved stone works.&lt;/p&gt;
+
+&lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BjwMTSshLB3/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:16px;"&gt; &lt;a href="https://www.instagram.com/p/BjwMTSshLB3/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"&gt; &lt;div style=" display: flex; flex-direction: row; align-items: center;"&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0;"&gt;&lt;/div&gt; &lt;div style="display:block; height:50px; margin:0 auto 12px; width:50px;"&gt;&lt;svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"&gt;&lt;div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BjwMTSshLB3/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;A post shared by The Feuerle Collection (@thefeuerlecollection)&lt;/a&gt; on &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-06-08T06:06:05+00:00"&gt;Jun 7, 2018 at 11:06pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async="" src="//www.instagram.com/embed.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;A glass wall along the side of the room reveals another artwork — a flooded room. The bunker room is filled with clear water that replenishes itself. Our guide said you can sometimes see edies as the water moves, but to me it just looked like an empty room. I’m still not sure about calling the room ‘art’. If it’s part of the collection, what is its message? How does it add to the story? I have some ideas, but it would have been nice to hear some opinions on it.&lt;/p&gt;
+
+&lt;p&gt;The second floor housed mainly Chinese furniture, but it also contained my favourite pieces, all contemporary. &lt;a href="https://www.artsy.net/artwork/cristina-iglesias-pozo-xii-desde-dentro-1"&gt;Cristina Iglesias’s Pozo XII&lt;/a&gt; was hypnotic — a bronze sculpture in the shape of an intricate valley, with a running water stream. It was beautiful, I circled back to it a few times. I also enjoyed two pieces by James Lee Byars — sculptures that acted as companions, including one that incorporated an ancient piece along with the modern. Sculptures by Zeng Fanzhi were also gorgeous, and I thought they paired nicely with Iglesias’s Pozo XII.&lt;/p&gt;
+
+&lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BaBCt6cA6bo/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:16px;"&gt; &lt;a href="https://www.instagram.com/p/BaBCt6cA6bo/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"&gt; &lt;div style=" display: flex; flex-direction: row; align-items: center;"&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0;"&gt;&lt;/div&gt; &lt;div style="display:block; height:50px; margin:0 auto 12px; width:50px;"&gt;&lt;svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"&gt;&lt;div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BaBCt6cA6bo/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;A post shared by The Feuerle Collection (@thefeuerlecollection)&lt;/a&gt; on &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-10-09T05:55:29+00:00"&gt;Oct 8, 2017 at 10:55pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async="" src="//www.instagram.com/embed.js"&gt;&lt;/script&gt;
+
+&lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BXDNaiGg5zg/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:16px;"&gt; &lt;a href="https://www.instagram.com/p/BXDNaiGg5zg/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"&gt; &lt;div style=" display: flex; flex-direction: row; align-items: center;"&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0;"&gt;&lt;/div&gt; &lt;div style="display:block; height:50px; margin:0 auto 12px; width:50px;"&gt;&lt;svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"&gt; View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"&gt;&lt;div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/BXDNaiGg5zg/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;A post shared by The Feuerle Collection (@thefeuerlecollection)&lt;/a&gt; on &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-07-27T12:33:15+00:00"&gt;Jul 27, 2017 at 5:33am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async="" src="//www.instagram.com/embed.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;On both floors there are works of erotic photography by a Japanese artist. I remarked at the time that the photos were no better than what you can get on Tumblr, which in 2019 is no longer true in light of Tumblr’s porn ban (😭).&lt;/p&gt;
+
+&lt;p&gt;Overall, my experience at the Feuerle Collection was mixed, but I think that says more about me than it does the collection. I always connect more with art that explores the absurd and irrational — art that has its tongue planted firmly in its cheek. While there are elements of surrealism in the Feuerle Collection, for the most part the mood is serious, solemn, and stark.&lt;/p&gt;
+
+&lt;p&gt;Setting aside my own proclivities, I still feel like there was a moment of connection missing in my visit. The theme is juxtaposition — the ancient and the new beside each other. The stark concrete bunker and the intricate stone statues. Erotic photography amongst Ming dynasty writing tables. But what was the overall message?&lt;/p&gt;
+
+&lt;p&gt;Contrast is valuable because of the light and shade it casts — highlighting or diminishing facets and therefore creating a new perspective. Juxtaposition shouldn’t just be for its own sake. It should provoke thought, or bring out a certain message. At the Feuerle Collection, I found that perspective lacking. There was no iconoclasm, or social commentary that I could discern. I wanted more narrative than was offered, and if not conclusions, then at least a message to consider.&lt;/p&gt;
+
+&lt;p&gt;There was lots to like at the Feuerle Collection, though. As I noted, I loved the contemporary works, and it was a pleasure to see a variety of Khmer works. The bunker itself is a moody foil for the art, and the flooded room ended up being one of the more thought-provoking pieces for me, as an exemplar for consideration in the question “What is art?”&lt;/p&gt;
+
+&lt;p&gt;I also enjoyed the experience of having to ask our guide in order to find out more about the collection, though I wish that I had known that was the case before I visited, so that I could study up a bit. Having the place to ourselves was a nice bonus, and it definitely made for a calmer experience than visiting a crowded gallery.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>What is State? Why do I need to manage it?</title>
+    <link rel="alternate" href="http://blog.url.com/what-is-state/"/>
+    <id>http://blog.url.com/what-is-state/</id>
+    <published>2018-09-13T22:17:42+02:00</published>
+    <updated>2019-12-28T12:35:40+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Read my thoughts on state over at &lt;a href="https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it"&gt;egghead&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
